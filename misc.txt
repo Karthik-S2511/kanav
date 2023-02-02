@@ -1,0 +1,4 @@
+<navbar> 
+  logo      Home    Category    About Us    Contact Info
+</navbar> 
+
